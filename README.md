@@ -1,6 +1,8 @@
 Karabiner
 =========
 
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/kvint/Karabiner?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Karabiner is a powerful utility for keyboard customization.
 
 * Change the key mappings (For example, "Change Right Option to Enter")
